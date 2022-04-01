@@ -67,11 +67,11 @@ MFRC522::MIFARE_Key key;
 String asset_id = "1";
 
 // The IP address or domain name for the client to connect to.
-String HOST = "20.58.50.62";
+String HOST = "x.x.x.x";
 
 // WIFi credentials
-String wifi_username = "Andreas";
-String wifi_password = "ervis21!";
+String wifi_username = "-------";
+String wifi_password = "-------";
 
 // An empty variable to store the hardware token on the fly.
 String asset_token;
